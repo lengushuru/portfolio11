@@ -2,7 +2,7 @@ export const desktopProjects = [
     {
       name: 'Samburu tech',
       id: 'id1',
-      featuredImage: '/src/assets/image/gems1.png',
+      featuredImage: '/assets/image/gems1.png',
       description:
       'This Samburu Tech Week website draws inspiration from the 2015 CC-Global-Summit conference website designed by Cindy Shin, showcasing my ability to adapt and innovate upon existing design concepts',
       technologies: ['HTML', 'CSS', 'JavaScript'],
