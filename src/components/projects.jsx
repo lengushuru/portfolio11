@@ -2,7 +2,7 @@ export const desktopProjects = [
     {
       name: 'Samburu tech',
       id: 'id1',
-      featuredImage: '/assets/image/gems1.png',
+      featuredImage: '/images/gems1.png',
       description:
       'This Samburu Tech Week website draws inspiration from the 2015 CC-Global-Summit conference website designed by Cindy Shin, showcasing my ability to adapt and innovate upon existing design concepts',
       technologies: ['HTML', 'CSS', 'JavaScript'],
@@ -12,7 +12,7 @@ export const desktopProjects = [
     {
       name: 'Awesome Books',
       id: 'id2',
-      featuredImage: '/src/assets/image/awesome-books.png',
+      featuredImage: '/images/awesome-books.png',
       description:
       'Awesome books is a simple website that displays a list of books and allows users to add and remove books from that list.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
@@ -22,7 +22,7 @@ export const desktopProjects = [
     {
       name: 'Budget App',
       id: 'id3',
-      featuredImage: '/src/assets/image/budget-app.png',
+      featuredImage: '/images/budget-app.png',
       description:'Budget app is a mobile application that allows users to create a budget and track their expenses. The user can create a budget category and add expenses to it.',
     
       technologies: ['HTML', 'CSS', 'JavaScript'],
@@ -32,7 +32,7 @@ export const desktopProjects = [
     {
       name: 'Todo List',
       id: 'id4',
-      featuredImage: '/src/assets/image/todo-list.png',
+      featuredImage: '/images/todo-list.png',
       description: 
       'To-do list is a website which helps to organize tasks performed in a particular day. It lists the things that need to do and allows you to mark them as complete.',
       technologies: ['React', 'CSS3'],
@@ -42,7 +42,7 @@ export const desktopProjects = [
     {
       name: 'Math Magician',
       id: 'id5',
-      featuredImage: '/src/assets/image/math-magician.png',
+      featuredImage: '/images/math-magician.png',
       description:
       'Math-magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to do different calculations using the Math JS library. It is built with React and it is fully responsive.',
       technologies: ['React', 'Redux', 'CSS'],
@@ -52,7 +52,7 @@ export const desktopProjects = [
     {
       name: 'Movie App',
       id: 'id6',
-      featuredImage: '/src/assets/image/movieapp.png',
+      featuredImage: '/images/movieapp.png',
       description:
       'Movie App is a dynamic website built with react components and redux store. It allows users to access list of movies or shows. It is responsive and can be used on mobile devices. The project was built using the YouTube video lesson by Dipesh Malvia',
       technologies: ['React', 'Redux', 'CSS3'],
@@ -65,7 +65,7 @@ export const mobileProjects = [
   {
     name: 'Samburu tech',
     id: 'id1',
-    featuredImage: '/src/assets/image/gems1.png',
+    featuredImage: '/images/gems1.png',
     description:
     'This Samburu Tech Week website draws inspiration from the 2015 CC-Global-Summit conference website designed by Cindy Shin, showcasing my ability to adapt and innovate upon existing design concepts',
     technologies: ['HTML', 'CSS', 'JavaScript'],
@@ -75,7 +75,7 @@ export const mobileProjects = [
   {
     name: 'Todo List',
     id: 'id4',
-    featuredImage: '/src/assets/image/todo-list.png',
+    featuredImage: '/images/todo-list.png',
     description: 
     'To-do list is a website which helps to organize tasks performed in a particular day. It lists the things that need to do and allows you to mark them as complete.',
     technologies: ['React', 'CSS3'],
@@ -85,7 +85,7 @@ export const mobileProjects = [
   {
     name: 'Movie App',
     id: 'id3',
-    featuredImage: '/src/assets/image/movieapp.png',
+    featuredImage: '/images/movieapp.png',
     description:
     'Movie App is a dynamic website built with react components and redux store. It allows users to access list of movies or shows. It is responsive and can be used on mobile devices. The project was built using the YouTube video lesson by Dipesh Malvia',
     technologies: ['React', 'Redux', 'CSS3'],
@@ -95,7 +95,7 @@ export const mobileProjects = [
   {
     name: 'Budget App',
     id: 'id3',
-    featuredImage: '/src/assets/image/budget-app.png',
+    featuredImage: '/images/budget-app.png',
     description:'Budget app is a mobile application that allows users to create a budget and track their expenses. The user can create a budget category and add expenses to it.',
   
     technologies: ['HTML', 'CSS', 'JavaScript'],
