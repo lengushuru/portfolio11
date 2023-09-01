@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 portfolio website <a name="about-project"></a>
 
-**portfolio website** is a css and html project to help understand HTML and CSS in a project based way.
+**portfolio website** This is a site to highlight my experiences as a software developer.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -111,7 +111,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [see Live](https://lengushuru.github.io/portfolio-website/)
+- [see Live](https://enchanting-piroshki-82b630.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
