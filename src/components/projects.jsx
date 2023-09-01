@@ -2,7 +2,7 @@ export const desktopProjects = [
     {
       name: 'Samburu tech',
       id: 'id1',
-      featuredImage: '/assets/image/gems1.png',
+      featuredImage: '/images/gems1.png',
       description:
       'This Samburu Tech Week website draws inspiration from the 2015 CC-Global-Summit conference website designed by Cindy Shin, showcasing my ability to adapt and innovate upon existing design concepts',
       technologies: ['HTML', 'CSS', 'JavaScript'],
@@ -12,7 +12,7 @@ export const desktopProjects = [
     {
       name: 'Awesome Books',
       id: 'id2',
-      featuredImage: '/src/assets/image/awesome-books.png',
+      featuredImage: '/images/awesome-books.png',
       description:
       'Awesome books is a simple website that displays a list of books and allows users to add and remove books from that list.',
       technologies: ['HTML', 'CSS', 'JavaScript'],
