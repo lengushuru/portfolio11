@@ -16,14 +16,14 @@ const Home = () => {
                     don’t hestiate to contact me.
                 </p>
                 <div className="resume">
-                <a className="resume-link" href="https://docs.google.com/document/d/1LLqlL8mii3nI_EhfNbDC0e0VyQQmybnDOHWdB3aPBxM/edit?usp=sharing">Get my resume</a>
+                <a className="resume-link" href="https://docs.google.com/document/d/1zA1D0z9BQ8LpagIO2JF9IKr9k21X-bi-0jhUmer5hMU/edit?usp=sharing">Get my resume</a>
                 </div>
                 <ul className="social-media-links">
-                    <li><a href="https://twitter.com/yodtwit"><FontAwesomeIcon icon={faTwitter} /></a></li>
-                    <li><a href="https://www.linkedin.com/in/yodit-abebe-ayalew/"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
-                    <li><a href="https://medium.com/@yoditabebe9391"><FaMediumM className="medium"/></a></li>
-                    <li><a href="https://github.com/yodit93"><TbBrandGithubFilled /></a></li>
-                    <li><a href="https://wellfound.com/u/yodit-abebe-ayalew"><FontAwesomeIcon icon={faAngellist} /></a></li>
+                    <li><a href="https://twitter.com/ngushuru"><FontAwesomeIcon icon={faTwitter} /></a></li>
+                    <li><a href="https://www.linkedin.com/in/lengushuru-charles/"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
+                    <li><a href="https://medium.com/@charleslengushuru_8709"><icons.medium /></a></li>
+                    <li><a href="https://github.com/lengushuru"><icons.github /></a></li>
+                    <li><a href="https://wellfound.com/u/lengushuru-charles"><FontAwesomeIcon icon={faAngellist} /></a></li>
                 </ul>
             </div>
             <figure className="welcome-cont">

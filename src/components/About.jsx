@@ -36,16 +36,16 @@ const About = () => {
                 From HTML and CSS to JavaScript frameworks like React and back-end technologies like Ruby on Rails and databases like PostgreSQL, 
                 I&apos;ve honed my abilities across the stack. I&apos;m excited to connect and open to new opportunities.</p>
                 <p className="social-text set-margin">LET’S CONNECT</p>
-                <ul className="social-media-links about">
-                    <li><a href="https://twitter.com/yodtwit"><FontAwesomeIcon icon={faTwitter} /></a></li>
-                    <li><a href="https://www.linkedin.com/in/yodit-abebe-ayalew/"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
-                    <li><a href="https://medium.com/@yoditabebe9391"><icons.medium /></a></li>
-                    <li><a href="https://github.com/yodit93"><icons.github /></a></li>
-                    <li><a href="https://wellfound.com/u/yodit-abebe-ayalew"><FontAwesomeIcon icon={faAngellist} /></a></li>
+                <ul className="social-media-links">
+                    <li><a href="https://twitter.com/ngushuru"><FontAwesomeIcon icon={faTwitter} /></a></li>
+                    <li><a href="https://www.linkedin.com/in/lengushuru-charles/"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
+                    <li><a href="https://medium.com/@charleslengushuru_8709"><icons.medium /></a></li>
+                    <li><a href="https://github.com/lengushuru"><icons.github /></a></li>
+                    <li><a href="https://wellfound.com/u/lengushuru-charles"><FontAwesomeIcon icon={faAngellist} /></a></li>
                 </ul>
                 
                 <div className="resume">
-                <a className="resume-link" href="https://docs.google.com/document/d/1LLqlL8mii3nI_EhfNbDC0e0VyQQmybnDOHWdB3aPBxM/edit?usp=sharing">Get my resume</a>
+                <a className="resume-link" href="https://docs.google.com/document/d/1zA1D0z9BQ8LpagIO2JF9IKr9k21X-bi-0jhUmer5hMU/edit?usp=sharing">Get my resume</a>
                 </div>
             </section>
             <ul className="additional-info">
