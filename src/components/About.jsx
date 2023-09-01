@@ -38,14 +38,14 @@ const About = () => {
                 <p className="social-text set-margin">LET’S CONNECT</p>
                 <ul className="social-media-links">
                     <li><a href="https://twitter.com/ngushuru"><FontAwesomeIcon icon={faTwitter} /></a></li>
-                    <li><a href="https://www.linkedin.com/in/lengushuru-charles/"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
+                    <li><a href="https://www.linkedin.com/in/lengushuru-charles"><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
                     <li><a href="https://medium.com/@charleslengushuru_8709"><icons.medium /></a></li>
                     <li><a href="https://github.com/lengushuru"><icons.github /></a></li>
                     <li><a href="https://wellfound.com/u/lengushuru-charles"><FontAwesomeIcon icon={faAngellist} /></a></li>
                 </ul>
                 
                 <div className="resume">
-                <a className="resume-link" href="https://docs.google.com/document/d/1zA1D0z9BQ8LpagIO2JF9IKr9k21X-bi-0jhUmer5hMU/edit?usp=sharing">Get my resume</a>
+                    <a className="resume-link" href="https://drive.google.com/uc?export=download&id=1bRKqxVpGsFB2Vl2Mo3_st8jDHLyOjYv1" target="_blank">Get my resume (PDF)</a>
                 </div>
             </section>
             <ul className="additional-info">
