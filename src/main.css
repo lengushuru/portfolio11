@@ -86,6 +86,12 @@ a {
   background-color: var(--text-color);
   backdrop-filter: blur(6px);
 }
+.resource {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
 
 .close-btn {
   position: absolute;
@@ -116,6 +122,7 @@ a {
   flex-direction: column;
   justify-content: center;
 }
+
 
 .wrapp-align {
   padding: 3rem 1rem 0 1rem;
@@ -385,16 +392,12 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--text-color) !important;
-  width: 162px;
-  height: 48px;
+  color: #fff !important;
   padding: 12px;
   gap: 10px;
-  border: 1px solid #6070ff;
   background-color: var(--secondary-color);
   border-radius: 8px;
   transition: ease-in-out 0.8s;
-  animation: pulse 2s infinite; /* Add animation */
 }
 
 @keyframes pulse {
@@ -405,7 +408,6 @@ ul {
   50% {
     transform: scale(1.1); /* Pulse effect with larger size */
     border-color: #f06800; /* Change border color */
-    background-color: transparent;
   }
   100% {
     transform: scale(1);
@@ -420,7 +422,6 @@ ul {
 .resume:hover {
   width: 180px;
   background-color: var(--background-color);
-  animation-play-state: paused; 
   border: 1px solid --secondary-color;
 }
 
@@ -429,7 +430,7 @@ ul {
   font-size: 17px;
   line-height: 24px;
   text-align: center;
-  color: var(--text-color);
+  color: var(--background-color);
   text-decoration: none;
 }
 
@@ -763,6 +764,28 @@ ul {
   border-radius: 0;
 }
 
+.pjct_btn {
+  display: flex;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 0 10px;
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  transition: ease-in-out 0.8s;
+  animation: pulse 2.3s infinite; 
+}
+
+.pjct_btn:hover {
+  background-color: transparent;
+  border: 1px solid var(--secondary-color);
+  transform: translateY(-2px);
+  animation-play-state: paused; 
+}
+
 @media screen and (min-width: 768px) {
   .home-container {
     height: 100%;
@@ -811,6 +834,10 @@ ul {
 
   .nav-links .active {
     color: var(--text-color)
+  }
+
+  .pjct_btn {
+    font-size: 17px;
   }
 
   .wrapp-align {
@@ -959,6 +986,8 @@ ul {
 
   .project-image-container {
     width: 60%;
+    border: 1px solid red;
+    height: 40vh;
     margin: auto;
   }
 

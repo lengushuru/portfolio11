@@ -51,8 +51,8 @@ const DetailsPage = () => {
                                         ))}
                                     </ul>
                                     <div className="see-demo-cont">
-                                        <Link className="see-demo" to={project.demo}>See Demo</Link>
-                                        <Link className="see-demo" to={project.source}>See Source</Link>
+                                        <Link className="see-demo" to={project.demo} target="_blank">See Demo</Link>
+                                        <Link className="see-demo" to={project.source} target="_blank">See Source</Link>
                                     </div>
                                 </div>
                             </div>

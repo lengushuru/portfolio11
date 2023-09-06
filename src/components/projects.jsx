@@ -36,7 +36,7 @@ export const desktopProjects = [
       description: 
       'To-do list is a website which helps to organize tasks performed in a particular day. It lists the things that need to do and allows you to mark them as complete.',
       technologies: ['React', 'CSS3'],
-      demo: 'https://github.com/lengushuru/To-Do-List',
+      demo: 'https://lengushuru.github.io/TO-DO-deployed/',
       source: 'https://github.com/lengushuru/To-Do-List',
     },
     {

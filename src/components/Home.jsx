@@ -15,8 +15,12 @@ const Home = () => {
                     user experiences. Look through some of my work and experience! If you like what you see and have a project you need coded,
                     don’t hestiate to contact me.
                 </p>
+                <div className="resource">
                 <div className="resume">
-                    <a className="resume-link" href="https://drive.google.com/uc?export=download&id=1bRKqxVpGsFB2Vl2Mo3_st8jDHLyOjYv1" target="_blank">Get my resume (PDF)</a>
+                    <a className="resume-link" href="https://drive.google.com/uc?export=download&id=1bRKqxVpGsFB2Vl2Mo3_st8jDHLyOjYv1" target="_blank">My resume </a>
+                </div>
+                <a className="pjct_btn" href="/portfolio">See projects</a>
+                
                 </div>
 
                 <ul className="social-media-links">
